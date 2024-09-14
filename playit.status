@@ -13036,3 +13036,10 @@ does-manufacture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273328349 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAwJYgAAAZHt6JVAAAAAAQAAAAEAAAAAAAAAAKpf6KLcb6RaypbsZqL-9edyRqmvIR4sK_FNZkyDIbUc
+
+TUNNELS
+places-kinase.gl.at.ply.gg:1820 => 127.0.0.1:1820 (minecraft-bedrock)
+does-manufacture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
